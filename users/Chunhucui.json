@@ -1,0 +1,91 @@
+{
+	"first_name": "Chunhu",
+	"last_name": "Cui",
+	"professional": "E-commerce & Web | Blockchain Developer",
+	"overview": "Passionate full-stack developer with 6+ years of experience in developing scalable websites/applications using a wide range of front-end and back-end skills like HTML, CSS, Python, JavaScript, etc. Always be creative to solve real-world problems and ready to learn new things.",
+	"country": "Hong Kong",
+	"hourRate": "30",
+	"workXP": [
+		{
+			"company": "Apryse",
+			"role": "Full Stack Developer",
+			"description": [
+				"Implemented 3 new marketing or analytics tools, leveraging data-driven insights to improve business decisions.",
+				"Designed, developed, and modified 5+ software systems and custom components.",
+				"Developed and launched 1 innovative insurance product utilizing the latest technologies.",
+				"Used JavaScript frameworks (React.js, Angular.js, Vue.js), TypeScript, Node.js and web3.js to interact with the Blockchain network."
+			],
+			"start": "2021.12",
+			"end": "2023.5"
+		},
+		{
+			"company": "Heaven Fresh",
+			"role": "Full Stack Developer ",
+			"description": [
+				"Played an important role in the development of the website, which was requested by the Pandemic Response Team to automate their work and save 2 hours of their work time a day for preventing COVID-19.",
+				"Experience in architecture and coding of enterprise-grade decentralized applications.",
+				"Developed scalable applications using the MEAN stack and created POCs for rest service development using Node.js, Express.js, and MongoDB.",
+				"Collaborated with external programmers to coordinate the delivery of 6 new software applications.",
+				"Redesigned and rebuilt 30+ companies' websites, resulting in remarkable growth in 10+ startup companies.",
+				"Designed and implemented scalable back end for 5 business-critical websites."
+			],
+			"start": "2019.3",
+			"end": "2021.11"
+		},
+		{
+			"company": "North Graphic",
+			"role": "Frontend Developer & Web Designer",
+			"description": [
+				"Redesigned 10+ websites and logos by using Adobe Photoshop, Flash and Figma.",
+				"Developed and launched 2 e-commerce platform and related products online.",
+				"Increased mobile orders by 18% by developing a mobile application for ordering and payment.",
+				"Gained experience with various web development tools including Bower, NPM, Git, Material design, Gulp, and cloud services like AWS, Azure, GCP, Heroku, and so on."
+			],
+			"start": "2017.9",
+			"end": "2019.2"
+		}
+	],
+	"education": [
+		{
+			"university": "The University of Hong Kong",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2015",
+			"end": "2017"
+		},
+		{
+			"university": "The Hong Kong Polythechnic University",
+			"degree": "Bachelor of Commerce (BCom)",
+			"field": "Computer Science",
+			"start": "2013",
+			"end": "2015"
+		}
+	],
+	"languages": [],
+	"skills": [
+        "Blockchain, NFT & Cryptocurrency",
+        "Node.js",
+        "React",
+        "Solidity",
+        "Vue.js",
+        "Next.js",
+        "TypeScript",
+        "web3.js",
+        "Tailwind CSS",
+        "Shopify",
+        "API Development",
+        "Python",
+        "Web Development"
+	],
+	"services": [
+		"Web Development",
+        "Ecommerce Development",
+		"Blockchain, NFT & Cryptocurrency"
+	],
+	"street": "Che Keng Tuk Road",
+	"zipcode": "V6B 3K9",
+	"city": "Sai Kung",
+	"location": "Hong Kong",
+	"phone": "28022108",
+	"avatar": "Chunhucui.jpg"
+}

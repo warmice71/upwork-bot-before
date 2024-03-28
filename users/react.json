@@ -1,0 +1,99 @@
+{
+	"first_name": ["Au"],
+	"last_name": ["WaiLun"],
+	"professional": "Full Stack Developer | MERN | Express | Nextjs | Reactjs | Nodejs",
+	"overview": "As a full stack developer, I possess a unique blend of technical expertise and creative problem-solving abilities. With proficiency in front-end technologies such as React and Next.js, back-end technologies such as Node.js and Express.js, and an in-depth understanding of databases like MongoDB, SQL, MySQL and PostgreSQL, I am well-equipped to tackle any project that comes my way. My strong background in Material Design and Tailwind CSS allows me to create visually stunning and intuitive user interfaces that deliver exceptional user experiences. With a keen eye for detail and an unwavering commitment to quality, I deliver projects on-time and within budget. Let's work together to bring your vision to life.• Programming languages: JavaScript, Python, C, C++   • Front-end technologies: HTML, CSS, React, Next JS, Material UI   • Back-end technologies: Node.js, Express.js, Database Integration   • Databases: MongoDB, SQL, MySQL, PostgreSQL • Strong background in React and Next.js  • UI Tools: Material UI and Tailwind CSS       • Development to Production & Deployment • Strong communicator and team player • Experience delivering complex projects • Expertise in Bug Fixing & Error resolving  • Certificates in -Full Stack Web Development, ( udemy ) -Meta Front-End Developer Certificate (facebook | Coursera) -Back End Development and APIs, ( freeCodeCamp ) -Python for Data Science and AI, ( IBM )",
+	"country": "Germany",
+	"hourRate": "20",
+	"workXP": [
+		{
+			"company": "EcomEsteem",
+			"role": "Web Developer",
+			"description": [
+				"Started my career and gained a lot of expertise in the field of Web-development. Created 100+ websites on different platforms.",
+				"eCommerce website",
+				"Woo-commerce Dropshipping",
+				"Shopify Premium Websites."
+			],
+			"start": "2020.11",
+			"end": "2022.5"
+		},
+		{
+			"company": "McKinsey & Company",
+			"role": "Fontend Developer | Shopify Developer ",
+			"description": [
+				"Developed and maintain a high-quality, scalable Shopify store for the client",
+				"Collaborate with client to understand their business needs and goals, and provide recommendations on store design and functionality.",
+				"Developed scalable applications using the MEAN stack and created POCs for rest service development using Node.js, Express.js, and MongoDB.",
+				"Implemented custom features and functionality using HTML5, CSS3, JavaScript, Liquid, and Shopify APIs.",
+				"Ensured stores are optimized for SEO and implemented CRO best practices.",
+				"Extend Shopify's functionalities to the next level using storefront APIs and meta fields"
+			],
+			"start": "2019.3",
+			"end": "2021.11"
+		},
+		{
+			"company": "BriskCoders",
+			"role": "Frontend Developer & Web Designer",
+			"description": [
+				"Redesigned 10+ websites and logos by using Adobe Photoshop, Flash and Figma.",
+				"Developed and launched 2 e-commerce platform and related products online.",
+				"Increased mobile orders by 18% by developing a mobile application for ordering and payment.",
+				"Gained experience with various web development tools including Bower, NPM, Git, Material design, Gulp, and cloud services like AWS, Azure, GCP, Heroku, and so on."
+			],
+			"start": "2017.9",
+			"end": "2019.2"
+		}
+	],
+	"education": [
+		{
+			"university": "Technical University of Cologne ",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2013",
+			"end": "2017"
+		},
+		{
+			"university": "The Hong Kong Polythechnic University",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2011",
+			"end": "2013"
+		}
+	],
+	"languages": [],
+	"skills": [
+        "ActionScript",
+        "MERN Stack",
+        "React",
+        "Version Control",
+        "Vue.js",
+        "Next.js",
+        "HTML",
+        "PostgreSQL",
+        "MongoDB",
+        "TypeScript",
+        "Node.js",
+        "Redux",
+        "ExpressJS",
+        "Material UI",
+        "JavaScript"
+	],
+	"services": [
+		"Web Development",
+        "Web & Mobile Design",
+        "Ecommerce Development",
+		"Data Mining & Management",
+		"Database Management & Administration",
+		"Desktop Application Development",
+		"Blockchain, NFT & Cryptocurrency",
+		"Lead Generation & Telemarketing"
+	],
+	"street": "Rheinuferstrasse 20",
+	"birthday": "1999-02-28",
+	"zipcode": "51063",
+	"city": "Kolenfeld",
+	"location": "Germany",
+	"phone": "00840442169",
+	"avatar": ["006.jpg"]
+}

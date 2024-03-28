@@ -1,0 +1,99 @@
+{
+	"first_name": ["Au"],
+	"last_name": ["WaiLun"],
+	"professional": "PHP | MERN | Django | WordPress | Shopify | Wix | ChatGPT integration|",
+	"overview": "Passionate full-stack developer with 6+ years of experience in developing scalable websites/applications using a wide range of front-end and back-end skills like HTML, CSS, Python, JavaScript, etc. Always be creative to solve real-world problems and ready to learn new things.",
+	"country": "Singapore",
+	"hourRate": "30",
+	"workXP": [
+		{
+			"company": "EcomEsteem",
+			"role": "Web Developer",
+			"description": [
+				"Started my career and gained a lot of expertise in the field of Web-development. Created 100+ websites on different platforms.",
+				"eCommerce website",
+				"Woo-commerce Dropshipping",
+				"Shopify Premium Websites."
+			],
+			"start": "2020.11",
+			"end": "2022.5"
+		},
+		{
+			"company": "McKinsey & Company",
+			"role": "Fontend Developer | Shopify Developer ",
+			"description": [
+				"Developed and maintain a high-quality, scalable Shopify store for the client",
+				"Collaborate with client to understand their business needs and goals, and provide recommendations on store design and functionality.",
+				"Developed scalable applications using the MEAN stack and created POCs for rest service development using Node.js, Express.js, and MongoDB.",
+				"Implemented custom features and functionality using HTML5, CSS3, JavaScript, Liquid, and Shopify APIs.",
+				"Ensured stores are optimized for SEO and implemented CRO best practices.",
+				"Extend Shopify's functionalities to the next level using storefront APIs and meta fields"
+			],
+			"start": "2019.3",
+			"end": "2021.11"
+		},
+		{
+			"company": "BriskCoders",
+			"role": "Frontend Developer & Web Designer",
+			"description": [
+				"Redesigned 10+ websites and logos by using Adobe Photoshop, Flash and Figma.",
+				"Developed and launched 2 e-commerce platform and related products online.",
+				"Increased mobile orders by 18% by developing a mobile application for ordering and payment.",
+				"Gained experience with various web development tools including Bower, NPM, Git, Material design, Gulp, and cloud services like AWS, Azure, GCP, Heroku, and so on."
+			],
+			"start": "2017.9",
+			"end": "2019.2"
+		}
+	],
+	"education": [
+		{
+			"university": "Technical University of Cologne ",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2013",
+			"end": "2017"
+		},
+		{
+			"university": "The Hong Kong Polythechnic University",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2011",
+			"end": "2013"
+		}
+	],
+	"languages": [],
+	"skills": [
+        "Squarespace",
+        "MERN Stack",
+        "React",
+        "PHP",
+        "Vue.js",
+        "Next.js",
+        "Django",
+        "Flask",
+        "Wix",
+        "Laravel",
+        "Three.js",
+        "WebGL",
+        "Shopify",
+        "Python",
+        "WordPress"
+	],
+	"services": [
+		"Web Development",
+        "Web & Mobile Design",
+        "Ecommerce Development",
+		"Data Mining & Management",
+		"Database Management & Administration",
+		"Desktop Application Development",
+		"Blockchain, NFT & Cryptocurrency",
+		"Lead Generation & Telemarketing"
+	],
+	"street": "Rheinuferstrasse 20",
+	"birthday": "1999-02-28",
+	"zipcode": "51063",
+	"city": "Kolenfeld",
+	"location": "Singapore",
+	"phone": "00840442169",
+	"avatar": ["001.jpg","002.jpg","003.jpg","004.jpg"]
+}

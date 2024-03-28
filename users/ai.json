@@ -1,0 +1,93 @@
+{
+	"first_name": ["Frank"],
+	"last_name": ["Schmidt"],
+	"professional": "Lead Generative AI & Prompt Engineer + AI Developer & Consultant",
+	"overview": "|SeniorAI Developer |Prompt Engineer | AI Business Consultant | AI Chatbot Specialist| Upwork certificated AI expert in the top 1% of global freelance Expert-Vetted talent  | 8 years experience in the IT industry | Generative AI |Midjourney & Stable Diffusion XL |  Hello, I'm Frank, a seasoned AI developer with a focus on Generative AI, Prompt Engineering, and AI consulting. I've spent 16+ years helping businesses leverage cutting-edge AI solutions. As a top AI expert on Upwork, I've consistently delivered innovative results.  Generative AI  I design smart AI systems that generate top-notch content. By understanding complex algorithms, I craft AI that takes creativity to the next level, producing both automated and unique results. Prompt Engineering  I excel in crafting prompts for AI models like GPT-3 and GPT-4, Midjourney and Stable Diffusion ensuring accurate and relevant responses. My goal is to enhance user interactions while making these systems a perfect fit for your business. AI Business Consulting Every business is distinct. I analyze your needs and devise AI strategies that amplify your business goals, ensuring tangible results. AI Chatbot Expertise I develop smart chatbots that communicate naturally. These bots enhance user engagement, offering real-time, personalized interactions. Considering AI for your business? Let's have a free 30-minute chat. I'll understand your vision, challenges, and goals—no strings attached. I prioritize quality over quantity, working with a select group of clients each month. If you're curious about AI's potential for your business, let's connect. Click 'Invite to Job' or drop me an email. I am an AI enthusiast with a versatile skill set that includes roles as an AI Solutions Specialist and Machine Learning Consultant. My expertise spans Deep Learning, Natural Language Understanding (NLU), and AI Transformation Strategies. With a strong foundation in Data Analytics & Interpretation, I optimize AI Models and handle intricate AI Project Management tasks. My adeptness in Algorithm Design & Testing is complemented by my proficiency in crafting AI-Powered User Experiences and handling Tensorflow and PyTorch projects. My portfolio also boasts voice AI development, generative design tasks, and seamless AI integrations. I provide custom chatbot solutions, conduct Turing Test evaluations, and specialize in AI-Powered Business Analytics. Adept at troubleshooting AI Systems, I bring innovation to e-commerce through AI and am a pro at Prompt Design & Testing. My contributions to AI research projects, training datasets, predictive AI modeling, and chatbot training stand as a testament to my dedication to the field. Above all, I pride myself on architecting robust AI solutions tailored to individual client needs. Best",
+	"country": "Germany",
+	"hourRate": "20",
+	"workXP": [
+		{
+			"company": "EcomEsteem",
+			"role": "AI Developer | Inoxoft",
+			"description": [
+				"I have done face recognition project with Facenet(tensorflow), MTCNN(tensorflow), Opencv.",
+                "Car License Plate Recognition(India, USA, Brazil, Iraq, Singapore Europe-Austria, Belgium, Bulgaria, CzechRepublic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal,Romania, Slovakia, Slovenia, Spain, Sweden, Russia, United Kingdom, Norway, Ukraine).",
+                "ID Card Recognition with tesseract, EAST(tensorflow), Leptonica.",
+                "Camera Calibration(OpenCV)",
+                "Image Stitching(OpenCV).",
+                "DeepFake(tensorflow).",
+                "Train Data Generation with CycleGAN(pytorch)"
+			],
+			"start": "2020.11",
+			"end": "2022.5"
+		},
+		{
+			"company": "McKinsey & Company",
+			"role": "Technical Lead Software Engineer | 4DRIVER",
+			"description": [
+				"Took part in more than 150projects, the most ambitious of which are:",
+				"4driver - the project was related to the development of the chat bot for car drivers’ anonymous communication, my responsibilities included architecture, database design and writing logic directly.",
+				"Skulfio - the goal of the project was to create an Android application for a social network similar to Instagram, my responsibilities included creation of the REST API back-end, database design and application logic.",
+				"Honda AR - the project was related to the presentation of new car models in augmented reality, my duties included writing of the application logic."
+			],
+			"start": "2019.3",
+			"end": "2021.11"
+		},
+		{
+			"company": "BriskCoders",
+			"role": "Team/Tech Lead Senior Full-Stack Software Engineer | Egorov Agency LLC",
+			"description": [
+				"Took part in more than 150projects, the most ambitious of which are:",
+				"4driver - the project was related to the development of the chat bot for car drivers’ anonymous communication, my responsibilities included architecture, database design and writing logic directly.",
+				"Skulfio - the goal of the project was to create an Android application for a social network similar to Instagram, my responsibilities included creation of the REST API back-end, database design and application logic.",
+				"Honda AR - the project was related to the presentation of new car models in augmented reality, my duties included writing of the application logic."
+			],
+			"start": "2017.9",
+			"end": "2019.2"
+		}
+	],
+	"education": [
+		{
+			"university": "Technical University of Cologne ",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2013",
+			"end": "2017"
+		},
+		{
+			"university": "The Hong Kong Polythechnic University",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2011",
+			"end": "2013"
+		}
+	],
+	"languages": [],
+	"skills": [
+        "Machine Learning",
+        "Python",
+        "Image Processing",
+        "TensorFlow",
+        "ChatGPT",
+        "OpenCV",
+        "AI Chatbot",
+        "Natural Language Processing",
+        "GPT-4 Developer",
+        "Automatic Speech Recognition",
+        "Prompt Engineering",
+        "Artificial Intelligence",
+        "AI Model Integration",
+        "LangChain",
+        "Chatbot Development"
+	],
+	"services": [
+		"AI & Machine Learning"
+	],
+	"street": "Rheinuferstrasse 20",
+	"birthday": "1999-02-28",
+	"zipcode": "51063",
+	"city": "Kolenfeld",
+	"location": "Germany",
+	"phone": "00840442169",
+	"avatar": ["006.jpg"]
+}

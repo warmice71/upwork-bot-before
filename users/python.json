@@ -1,0 +1,114 @@
+{
+	"first_name": ["Au"],
+	"last_name": ["WaiLun"],
+	"professional": "Python Developer (Django, Flask, DRF, Rest API, DevOps, AWS)",
+	"overview": [
+		"As a software developer with nine years of Python experience, I can help you with online, backend, or API development services. I've used a range of Python frameworks, including Django, Flask, and DRF, to ensure that my clients' products, ranging from startups/SMEs to large teams, have a scalable back-end that can serve them for years.",
+
+		"For your consideration, here is my technical profile:",
+		"☑️ Python - Django, Django Rest Framework (DRF), Flask",
+		"☑️ APIs - Rest API, FastAPI, JWT",
+		"☑️ Databases - PostgreSQL, MongoDB, MySQL, Amazon DynamoDB",
+		"☑️ AWS Services - Lambda, Ec2, RDS, SES, S3, Route53, Elastic Search",
+		"☑️ Cloud Services - Amazon Web Services (AWS), MS Azure, GCP, DigitalOcean",
+		"☑️ Architectures - Serverless, Domain Driven, Event Driven Architecture, Monolithic",
+		"☑️ Testing - Pytest, Unit testing, Integration Testing, Functional Testing",
+		"☑️ Others - Celery, Docker, GitFlow, CI/CD, Solid & Dry Principle, AGILE Work Flow - SCRUM",
+
+		"My ability to operate in a team as well as individually complements these technical skills, as I deliver via written and verbal communication, complete duties remotely, and manage various sections of a project.",
+
+		"If this seems interesting, we can arrange a quick introductory conversation to explore how I can assist!",
+
+		"*The rate mentioned here is a general one. No one shoe fits them all, the actual rate depends on the complexity and engagement. I will specify it in the cover letter!*"
+	],
+	"country": "Germany",
+	"hourRate": "30",
+	"workXP": [
+		{
+			"company": "EcomEsteem",
+			"role": "Web Developer",
+			"description": [
+				"Started my career and gained a lot of expertise in the field of Web-development. Created 100+ websites on different platforms.",
+				"eCommerce website",
+				"Woo-commerce Dropshipping",
+				"Shopify Premium Websites."
+			],
+			"start": "2020.11",
+			"end": "2022.5"
+		},
+		{
+			"company": "McKinsey & Company",
+			"role": "Fontend Developer | Shopify Developer ",
+			"description": [
+				"Developed and maintain a high-quality, scalable Shopify store for the client",
+				"Collaborate with client to understand their business needs and goals, and provide recommendations on store design and functionality.",
+				"Developed scalable applications using the MEAN stack and created POCs for rest service development using Node.js, Express.js, and MongoDB.",
+				"Implemented custom features and functionality using HTML5, CSS3, JavaScript, Liquid, and Shopify APIs.",
+				"Ensured stores are optimized for SEO and implemented CRO best practices.",
+				"Extend Shopify's functionalities to the next level using storefront APIs and meta fields"
+			],
+			"start": "2019.3",
+			"end": "2021.11"
+		},
+		{
+			"company": "BriskCoders",
+			"role": "Frontend Developer & Web Designer",
+			"description": [
+				"Redesigned 10+ websites and logos by using Adobe Photoshop, Flash and Figma.",
+				"Developed and launched 2 e-commerce platform and related products online.",
+				"Increased mobile orders by 18% by developing a mobile application for ordering and payment.",
+				"Gained experience with various web development tools including Bower, NPM, Git, Material design, Gulp, and cloud services like AWS, Azure, GCP, Heroku, and so on."
+			],
+			"start": "2017.9",
+			"end": "2019.2"
+		}
+	],
+	"education": [
+		{
+			"university": "Technical University of Cologne ",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2013",
+			"end": "2017"
+		},
+		{
+			"university": "The Hong Kong Polythechnic University",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2011",
+			"end": "2013"
+		}
+	],
+	"languages": [],
+	"skills": [
+        "Python",
+        "Amazon Web Services",
+        "Flask",
+        "MongoDB",
+        "CI/CD",
+        "AWS Lambda",
+        "Django",
+        "Serverless Stack",
+        "Cloud Services",
+        "Back-End Development",
+        "Celery",
+        "Python Numpy FastAI",
+        "Automated Deployment Pipeline",
+        "Selenium",
+        "GraphQL"
+	],
+	"services": [
+		"Web Development",
+        "Web & Mobile Design",
+        "Ecommerce Development",
+		"Database Management & Administration",
+		"Desktop Application Development"
+	],
+	"street": "Rheinuferstrasse 20",
+	"birthday": "1999-02-28",
+	"zipcode": "51063",
+	"city": "Kolenfeld",
+	"location": "Germany",
+	"phone": "00840442169",
+	"avatar": ["001.jpg","002.jpg","003.jpg","004.jpg"]
+}

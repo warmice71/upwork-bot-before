@@ -1,0 +1,91 @@
+{
+	"first_name": "Thomas",
+	"last_name": "Wallner",
+	"professional": "E-commerce & Full stack Developer",
+	"overview": "Passionate full-stack developer with 6+ years of experience in developing scalable websites/applications using a wide range of front-end and back-end skills like HTML, CSS, Python, JavaScript, etc. Always be creative to solve real-world problems and ready to learn new things.",
+	"country": "Austria",
+	"hourRate": "30",
+	"workXP": [
+		{
+			"company": "BriskCoders",
+			"role": "Web Developer",
+			"description": [
+				"Started my career and gained a lot of expertise in the field of Web-development. Created 100+ websites on different platforms.",
+				"eCommerce website",
+				"Woo-commerce Dropshipping",
+				"Shopify Premium Websites."
+			],
+			"start": "2020.12",
+			"end": "2021.12"
+		},
+		{
+			"company": "McKinsey & Company",
+			"role": "Fontend Developer | Shopify Developer ",
+			"description": [
+				"Developed and maintain a high-quality, scalable Shopify store for the client",
+				"Collaborate with client to understand their business needs and goals, and provide recommendations on store design and functionality.",
+				"Developed scalable applications using the MEAN stack and created POCs for rest service development using Node.js, Express.js, and MongoDB.",
+				"Implemented custom features and functionality using HTML5, CSS3, JavaScript, Liquid, and Shopify APIs.",
+				"Ensured stores are optimized for SEO and implemented CRO best practices.",
+				"Extend Shopify's functionalities to the next level using storefront APIs and meta fields"
+			],
+			"start": "2019.3",
+			"end": "2021.11"
+		},
+		{
+			"company": "Eagle Rocket LLC",
+			"role": "Frontend Developer & Web Designer",
+			"description": [
+				"Worked in a 20-person team of American and French devs and designers.",
+				"Designed and developed a job board using WordPress Hooks.",
+				"Developed, Designed, and Implemented Database structure, Storage structure, and Web service required for File/Content ManagementSystem.",
+				"Setup tracking with GTM and GA, integrated HTML/CSS into the CMS, and conducted day-to-day maintenance of the websites, resulting in a combined $40M of revenue for clients."
+			],
+			"start": "2017.9",
+			"end": "2019.2"
+		}
+	],
+	"education": [
+		{
+			"university": "Humboldt University of Berlin ",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2013",
+			"end": "2017"
+		},
+		{
+			"university": "Bard College Berlin",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2011",
+			"end": "2013"
+		}
+	],
+	"languages": [],
+	"skills": [
+        "Magento",
+        "Node.js",
+        "React",
+        "Wix",
+        "Dropshipping",
+        "Next.js",
+        "TypeScript",
+        "BigCommerce",
+        "Tailwind CSS",
+        "Shopify",
+        "API Development",
+        "WooCommerce",
+        "Web Development",
+		"eCommerce"
+	],
+	"services": [
+		"Web Development",
+        "Ecommerce Development"
+		],
+	"street": "Martina-Baier-Platz 78",
+	"zipcode": "7379",
+	"city": "Merkendorf",
+	"location": "Austria",
+	"phone": "0699 0709383",
+	"avatar": "Thomas.jpg"
+}

@@ -1,0 +1,96 @@
+{
+	"first_name": ["Au"],
+	"last_name": ["WaiLun"],
+	"professional": "WordPress I CMS I SEO I Wix I Webflow I Web Design I Web Development",
+	"overview": "As a WordPress developer, I have extensive experience in designing and developing custom WordPress websites, themes, and plugins. I  possess a strong understanding of the latest web development technologies, including HTML5, CSS3, JavaScript, and jQuery, which enable me to create highly functional and visually appealing websites.   👉 Designing Tools:- Figma, Adobe XD, Sketch, Photoshop, Illustrator  👉 CMS:- WordPress, WIX, Squarespace, Webflow, Shopify, HubSpot, Craft CMS, etc.  👉 Landing pages:- Unbounce, Leadpages, ClickFunnels, Instapage, etc. 👉WordPress Builders:- Elementor Pro, DIVI, Gutenberg, Thrive, Oxygen Builder, Beaver Builder, WPBakery Page Builder, and Advance Custom Field  👉 WordPress Plugin:- Gravity Forms, Contact Form 7, WPML, Weglot, WooCommerce, Yoast SEO, SeedProd, WP Rocket, etc.  👉Themes:- Avada, Astra, Salient, BeTheme, Flatsome, Uncode, Bridge, X Theme, Enfold, Jupiter, Genesis Framework        I have also created a Custom block for Gutenberg and created a Custom module for Elementor. Complete🔎SEO Package:- Technical SEO + On-Page SEO + Off-Page SEO      If you are looking for a reliable and experienced WordPress CMS developer who can bring your vision to life and provide ongoing support look no further. I would be happy to discuss your project requirements and provide a competitive quote.    Web Design | Web Development | Website Designing | Website Development | User Experience Design | CMS | CMS Development | WordPress | WordPress development | WordPress Website | Webflow | Shopify | Squarespace | HubSpot | Craft CMS | Wix | Landing page | Landing Page Development | Ecommerce | Ecommerce Development | Ecommerce website | Ecommerce website development | Website Builder | CMS & website builder | Figma | XD | Photoshop | Sketch | Graphic designing | logo | HTML | CSS | JavaScript | PHP | WordPress SEO | WordPress Migration | WordPress Specialist | Web Page | UX & UI Design | SEO | SEO Audit | Website SEO Auditing | Complete SEO audits | SEO Keyword Research | Keywords Optimization | Keyword Research | Competitors Analysis | Competitor strategies | On-Page SEO | Off-Page SEO | Technical SEO | Backlinks | Local SEO | WordPress SEO | Organic Traffic Growth | Search Engine Ranking | Google Ranking.",
+	"country": "Germany",
+	"hourRate": "20",
+	"workXP": [
+		{
+			"company": "EcomEsteem",
+			"role": "Web Developer",
+			"description": [
+				"Started my career and gained a lot of expertise in the field of Web-development. Created 100+ websites on different platforms.",
+				"eCommerce website",
+				"Woo-commerce Dropshipping",
+				"Shopify Premium Websites."
+			],
+			"start": "2020.11",
+			"end": "2022.5"
+		},
+		{
+			"company": "McKinsey & Company",
+			"role": "Frontend Developer | Shopify Developer ",
+			"description": [
+				"Developed and maintain a high-quality, scalable Shopify store for the client",
+				"Collaborate with client to understand their business needs and goals, and provide recommendations on store design and functionality.",
+				"Developed scalable applications using the MEAN stack and created POCs for rest service development using Node.js, Express.js, and MongoDB.",
+				"Implemented custom features and functionality using HTML5, CSS3, JavaScript, Liquid, and Shopify APIs.",
+				"Ensured stores are optimized for SEO and implemented CRO best practices.",
+				"Extend Shopify's functionalities to the next level using storefront APIs and meta fields"
+			],
+			"start": "2019.3",
+			"end": "2021.11"
+		},
+		{
+			"company": "BriskCoders",
+			"role": "Frontend Developer & Web Designer",
+			"description": [
+				"Redesigned 10+ websites and logos by using Adobe Photoshop, Flash and Figma.",
+				"Developed and launched 2 e-commerce platform and related products online.",
+				"Increased mobile orders by 18% by developing a mobile application for ordering and payment.",
+				"Gained experience with various web development tools including Bower, NPM, Git, Material design, Gulp, and cloud services like AWS, Azure, GCP, Heroku, and so on."
+			],
+			"start": "2017.9",
+			"end": "2019.2"
+		}
+	],
+	"education": [
+		{
+			"university": "Technical University of Cologne ",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2013",
+			"end": "2017"
+		},
+		{
+			"university": "The Hong Kong Polythechnic University",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2011",
+			"end": "2013"
+		}
+	],
+	"languages": [],
+	"skills": [
+        "Squarespace",
+        "WordPress",
+        "WordPress Malware Removal",
+        "WordPress Multisite",
+        "WordPress Theme",
+        "PSD to WordPress",
+        "Responsive Design",
+        "WordPress Plugin",
+        "Wix",
+        "WordPress Website",
+        "WordPress Landing Page",
+        "Shopify",
+        "Webflow",
+        "Craft CMS",
+        "WooCommerce"
+	],
+	"services": [
+		"Web Development",
+        "Web & Mobile Design",
+        "Ecommerce Development",
+		"Database Management & Administration",
+		"Desktop Application Development"
+	],
+	"street": "Martina-Baier-Platz 78",
+	"birthday": "1999-02-28",
+	"zipcode": "7379",
+	"city": "Merkendorf",
+	"location": "Germany",
+	"phone": "0699 0709383",
+	"avatar": ["006.jpg"]
+}

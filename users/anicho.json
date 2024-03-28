@@ -1,0 +1,95 @@
+{
+	"first_name": ["Raphael","Christian","Gerrit","Kilian","Damien","Bastian","Leon","Nikolas","Bernard","Sebastian","Jorim","Philipp","Jan","Daniel","Marco","Tobias","Ludovic","Dustin","Vincent","Aram","Sebastian", "Lucas", "Noah", "Liam", "Jack", "Ethan", "William", "Elliot", "Theodore", "Jocob", "Oliver", "Adrian", "Sebastian", "Alexander", "Logan", "Christopher", "Nathan", "Joshua", "Thomas", "Benjamin", "Michael"],
+	"last_name": ["Brunner","Frei","Frank","Lehner","Berger","Otto","Steiner","Marti","Simon","Weiss","Keller","Schulze","Schmid","Schneider","Schmid","Schmidt","Frei","Bauer","Baumgartner","Fischer","Schreiber", "Wilson", "Johnson", "Davis", "Thompson", "Roy", "Miller", "Jackson", "Harris", "McDonald", "Brown", "Cambell", "Lee", "Fraser", "Martin", "Moore", "Cameron", "Taylor", "Smith", "Anderson", "Thompson"],
+	"professional": "Full Stack Developer, Senior Blockchain Engineer",
+	"overview": "Experienced IT Specialist with a strong background in designing, developing, and maintaining computer systems for a diverse business clientele.  5+ years of blockchain development experience includes 20+ valuable Ethereum and Solana blockchain projects. 7+ years of web development experience using JavaScript frameworks includes 30+ valuable web projects.",
+	"country": "Germany",
+	"hourRate": "35",
+	"workXP": [
+		{
+			"company": "RUBY Exchange",
+			"role": "Senior Frontend Web3 Developer ",
+			"description": [
+				"Developed a web UI of DEX platform for crypto trading using ReactJS.",
+				"Used Redux as state management, Tailwindcss and MUI for UI styling.",
+				"Tested the UI using Jest framework.",
+				"Interacted with blockchain using ethers module."
+			],
+			"start": "2021.7",
+			"end": "2023.5"
+		},
+		{
+			"company": "Bidify Org",
+			"role": "Blockchain Fullstack Developer",
+			"description": [
+				"Built the smart contracts by solidity to buy, sell and auction NFTs on the platform.",
+				"Took part in the development of UI using ReactJS.",
+				"Integrated with 3rd party APIs such as IPFS, Arweave and Fleek."
+			],
+			"start": "2018.9",
+			"end": "2021.6"
+		},
+		{
+			"company": "XION Global",
+			"role": "Frontend Developer",
+			"description": [
+				"Created responsive websites from scratch.",
+				"Designed and maintained front end for web and mobile applications by using AngularJS/TypeScript.",
+				"Wrote unit tests to improve code predictability and documentation."
+			],
+			"start": "2017.2",
+			"end": "2018.8"
+		}
+	],
+	"education": [
+		{
+			"university": "Nottingham Trent University",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2009",
+			"end": "2011"
+		}, 
+		{
+			"university": "Bard College Berlin",
+			"degree": "Bachelor of Computer Science (BCompSc)",
+			"field": "Computer Science",
+			"start": "2011",
+			"end": "2015"
+		}
+	],
+	"languages": [],
+	"skills": [
+        "Blockchain, NFT & Cryptocurrency",
+        "Smart Contract",
+        "web3.js",
+        "React",
+        "Vue.js",
+        "Next.js",
+        "Django",
+        "TypeScript",
+        "Responsive Design",
+        "ASP.NET",
+        "Tailwind CSS",
+        "PHP",
+        "API Development",
+        "Python",
+        "Web Development"
+	],
+	"services": [
+        "Blockchain, NFT & Cryptocurrency",
+		"Web Development",
+        "Web & Mobile Design",
+        "Ecommerce Development",
+        "Desktop Application Development",
+		"Database Management & Administration",
+		"Data Mining & Management",
+		"Lead Generation & Telemarketing"
+	],
+	"street": "Sandweg 38",
+	"zipcode": "39923",
+	"city": "Frankfurt am Main",
+	"location": "Germany",
+	"phone": "713097268",
+	"avatar": ["001.jpg", "002.jpg", "003.jpg", "004.jpg"
+]
+}
